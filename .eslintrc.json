@@ -15,7 +15,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "directivesExample",
+            "prefix": "example",
             "style": "camelCase"
           }
         ],
@@ -23,7 +23,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "directives-example",
+            "prefix": "example",
             "style": "kebab-case"
           }
         ]
